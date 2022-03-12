@@ -1,10 +1,16 @@
 # はじめまして、まつおちんゆです。
-[ ![miwashutaro0611](https://komarev.com/ghpvc/?username=matsuochinyu)
-](https://github.com/matsuochinyu/matsuochinyu/)
-[![](https://img.shields.io/twitter/follow/raito__0119?label=Twitter&logo=twitter&style=flat)
-](http://twitter.com/raito__0119)
-[![](https://img.shields.io/github/followers/miwashutaro0611?label=follow&logo=github&style=flat)
-](https://github.com/matsuochinyu)
+<p align="left"> 
+  <a href="https://github.com/matsuochinyu/matsuochinyu/">
+    <img src="https://komarev.com/ghpvc/?username=matsuochinyu" alt="matsuochinyu" />
+  </a>
+  <a href="http://twitter.com/raito__0119">
+    <img height="20" src="https://img.shields.io/twitter/follow/raito__0119?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/matsuochinyu">
+    <img height="20" src="https://img.shields.io/github/followers/matsuochinyu?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 
 ## Githubカード
 
