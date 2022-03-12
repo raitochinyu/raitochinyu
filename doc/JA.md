@@ -16,6 +16,6 @@
 
 <p align="left"> 
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=matsuochinyu&show_icons=true&theme=merko" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsuochinyu&langs_count=8)" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsuochinyu&layout=compact" />
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsuochinyu" />
 </p>
