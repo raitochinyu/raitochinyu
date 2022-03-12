@@ -15,9 +15,6 @@
 ## Githubカード
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsuochinyu&langs_count=8)" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=matsuochinyu&show_icons=true&theme=merko" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=matsuochinyu&show_icons=true&theme=merko" />
+  <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsuochinyu&langs_count=8)" />
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsuochinyu&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsuochinyu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
