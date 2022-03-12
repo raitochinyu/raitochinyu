@@ -26,7 +26,9 @@
     <img height="45px" src="https://onl.sc/qyykuA4" />
   </a>
   
+  
   <img src="https://img.shields.io/discourse/status?server=https://discord.com/invite/eCvsrwM84m">
+  
   
   <a href="https://discord.com/invite/eCvsrwM84m">
     サーバー
