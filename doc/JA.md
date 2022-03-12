@@ -21,8 +21,9 @@
 ## SNS関連
 >### Discord
 <p align="left">
-  <a href="https://discord.com/users/711187693723451392">アカウント</a>
-  <img height="20px" src="https://onl.sc/qyykuA4" />
+  <a href="https://discord.com/users/711187693723451392">アカウント
+    <img height="20px" src="https://onl.sc/qyykuA4" />
+  </a>
 </p>
 
 サーバー　：https://discord.com/invite/eCvsrwM84m
