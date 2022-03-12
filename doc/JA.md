@@ -20,6 +20,10 @@
 
 ## SNS関連
 >### Discord
+<p align="left">
+  <img alt="[アカウント](https://discord.com/users/711187693723451392
+)" src="https://onl.sc/qyykuA4">
+</p>
 アカウント：https://discord.com/users/711187693723451392
 
 サーバー　：https://discord.com/invite/eCvsrwM84m
