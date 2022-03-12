@@ -21,7 +21,7 @@
 ## SNS関連
 >### Discord
 <p align="left">
-  <img height="22px" src="https://onl.sc/qyykuA4" />
+  [アカウント](https://discord.com/users/711187693723451392)<img height="30px" src="https://onl.sc/qyykuA4" />
 </p>
 
 アカウント：https://discord.com/users/711187693723451392
