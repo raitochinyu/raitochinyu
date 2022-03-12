@@ -20,4 +20,4 @@
 </p>
 
 ## SNS関連
-> discord
+>## discord
