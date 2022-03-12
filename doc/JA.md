@@ -18,6 +18,8 @@
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsuochinyu&layout=compact" />
 </p>
 
+[アカウント](https://discord.com/users/711187693723451392)
+
 ## SNS関連
 >### Discord
 <p align="left">
