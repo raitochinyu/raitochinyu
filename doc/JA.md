@@ -1,4 +1,5 @@
 # はじめまして、まつおちんゆです。
+
 <p align="left"> 
   <a href="https://github.com/matsuochinyu/matsuochinyu/">
     <img height="25" src="https://komarev.com/ghpvc/?username=matsuochinyu" alt="matsuochinyu" />
@@ -20,6 +21,7 @@
 </p>
 
 ## SNS関連
+
 ># Discord
-アカウント：
-サーバー　：
+アカウント：https://discord.com/users/711187693723451392
+サーバー　：https://discord.com/invite/eCvsrwM84m
