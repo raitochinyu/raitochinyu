@@ -30,6 +30,6 @@
   <a href="https://discord.com/invite/eCvsrwM84m">
     <br>
     サーバー
-    <img height="45px" src="https://onl.sc/xbVQzC3" />
+    <img height="45px" src="https://onl.sc/RsTqQSx" />
   </a>
 </p>
