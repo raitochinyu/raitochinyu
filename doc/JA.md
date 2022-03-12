@@ -21,8 +21,7 @@
 ## SNS関連
 >### Discord
 <p align="left">
-  <h1>[アカウント](https://discord.com/users/711187693723451392
-)</h1>
+  <img alt="[アカウント](https://discord.com/users/711187693723451392)" src="https://onl.sc/qyykuA4" />
 </p>
 
 アカウント：https://discord.com/users/711187693723451392
