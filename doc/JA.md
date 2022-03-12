@@ -23,13 +23,13 @@
 <p align="left">
   <a href="https://discord.com/users/711187693723451392">
     アカウント
-    <img height="45px" src="https://onl.sc/qyykuA4" />
+    <img height="35px" src="https://onl.sc/qyykuA4" />
     <br>
   </a>
   
   <a href="https://discord.com/invite/eCvsrwM84m">
     <br>
     サーバー
-    <img height="45px" src="https://onl.sc/RsTqQSx" />
+    <img height="25px" src="https://onl.sc/RsTqQSx" />
   </a>
 </p>
