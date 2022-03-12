@@ -24,6 +24,7 @@
   <a href="https://discord.com/users/711187693723451392">
     アカウント
     <img height="45px" src="https://onl.sc/qyykuA4" />
+    <br>
   </a>
   
   <a href="https://discord.com/invite/eCvsrwM84m">
