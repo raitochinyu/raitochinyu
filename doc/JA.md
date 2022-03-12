@@ -1,7 +1,7 @@
 # はじめまして、まつおちんゆです。
 <p align="left"> 
   <a href="https://github.com/matsuochinyu/matsuochinyu/">
-    <img src="https://komarev.com/ghpvc/?username=matsuochinyu" alt="matsuochinyu" />
+    <img height="30" src="https://komarev.com/ghpvc/?username=matsuochinyu" alt="matsuochinyu" />
   </a>
   <a href="http://twitter.com/raito__0119">
     <img height="20" src="https://img.shields.io/twitter/follow/raito__0119?label=Twitter&logo=twitter&style=flat" />
