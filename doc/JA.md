@@ -1,5 +1,4 @@
 # はじめまして、まつおちんゆです。
-
 <p align="left"> 
   <a href="https://github.com/matsuochinyu/matsuochinyu/">
     <img height="25" src="https://komarev.com/ghpvc/?username=matsuochinyu" alt="matsuochinyu" />
@@ -14,14 +13,13 @@
 
 
 ## Githubカード
-
 <p align="left"> 
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=matsuochinyu&show_icons=true&theme=merko" />
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsuochinyu&layout=compact" />
 </p>
 
 ## SNS関連
-
-># Discord
+>### Discord
 アカウント：https://discord.com/users/711187693723451392
+
 サーバー　：https://discord.com/invite/eCvsrwM84m
