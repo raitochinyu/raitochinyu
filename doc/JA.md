@@ -22,7 +22,7 @@
 >### Discord
 <p align="left">
   <a href="https://discord.com/users/711187693723451392">アカウント
-    <img height="20px" src="https://onl.sc/qyykuA4" />
+    <img height="30px" src="https://onl.sc/qyykuA4" />
   </a>
 </p>
 
