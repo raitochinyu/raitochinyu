@@ -3,13 +3,13 @@
   <a href="https://github.com/matsuochinyu/matsuochinyu/">
     <img height="25" src="https://komarev.com/ghpvc/?username=matsuochinyu" alt="matsuochinyu" />
   </a>
+  <img height="25" src="https://badges.pufler.dev/years/matsuochinyu" />
   <a href="http://twitter.com/raito__0119">
     <img height="25" src="https://img.shields.io/twitter/follow/raito__0119?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/matsuochinyu">
     <img height="25" src="https://img.shields.io/github/followers/matsuochinyu?label=follow&logo=github&style=flat" />
   </a>
-  <img height="25" src="https://badges.pufler.dev/years/matsuochinyu" />
 </p>
 
 <p align="left"> 
