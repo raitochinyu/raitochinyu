@@ -1,5 +1,5 @@
-###My profile[select language]
+# My profile select language
 
-日本語（Ja）[https://github.com/matsuochinyu]
+[日本語（Japanese）](.doc/JA.md)
 
-英語　（En）[htpps://github.com/matsuochinyu]
+[英語（English）](.doc/EN.md)
