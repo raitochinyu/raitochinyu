@@ -18,3 +18,6 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=matsuochinyu&show_icons=true&theme=merko" />
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsuochinyu&layout=compact" />
 </p>
+
+## SNS関連
+> discord
