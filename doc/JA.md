@@ -21,9 +21,14 @@
 ## SNS関連
 >### Discord
 <p align="left">
-  <a href="https://discord.com/users/711187693723451392">アカウント
-    <img height="30px" src="https://onl.sc/qyykuA4" />
+  <a href="https://discord.com/users/711187693723451392">
+    アカウント
+    <img height="45px" src="https://onl.sc/qyykuA4" />
   </a>
+  
+  <img src="https://shields.io/category/chat/discourse/status?server=https://discord.com/invite/eCvsrwM84m">
+  
+  <a href="https://discord.com/invite/eCvsrwM84m">
+    サーバー
+    <img height="45px" src="https://onl.sc/qyykuA4" />
 </p>
-
-サーバー　：https://discord.com/invite/eCvsrwM84m
