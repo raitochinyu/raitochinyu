@@ -27,7 +27,7 @@
     <br>
   </a>
   
-  <img height="25" src="https://img.shields.io/discord/:748951941379522631" />
+  <img height="25" src="https://img.shields.io/discord/748951941379522631" />
   
   <a href="https://discord.com/invite/eCvsrwM84m">
     <br>
