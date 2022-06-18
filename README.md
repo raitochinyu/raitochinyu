@@ -1,5 +1,13 @@
 # My profile
-#### [Click here for English](./doc/EN.md)
+<p align="left" id="github">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/raitochinyu?style=social">
+</p>
+<p align="" id="discord">
+  <img alt="Discord" src="https://img.shields.io/discord/748951941379522631">
+</p>
+<p id="twitter">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raito1460?style=social">
+</p>
 
 > ### `ステータス`
 
@@ -15,3 +23,6 @@
 - #### [Instagram](https://instagram.com)
 - #### [Twitter](https://twitter.com)
 
+
+# English　is here（英語版はこっち）
+### [*Click here for English*](./doc/EN.md)
