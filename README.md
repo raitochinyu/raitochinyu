@@ -7,6 +7,10 @@
   <a href="https://discord.gg/eCvsrwM84m" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/748951941379522631"></a>
 </p>
 
+> ### `ようこそ、READMEへ`
+こんにちは、僕の名前は __らいとちんゆ__ です。「__らいと__」か「__らいちんゆ__」と呼んでください！
+プログラミング初心者ではありますが、親切に接して頂けるとありがたいです(*^^*)
+
 > ### `ステータス`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raitochinyu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=151515)
