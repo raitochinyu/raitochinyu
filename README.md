@@ -2,11 +2,11 @@
 <p align="left" id="github">
   <a href="https://github.com/raitochinyu"><img alt="GitHub followers" src="https://img.shields.io/github/followers/raitochinyu?style=social"></a>
 </p>
-<p align="" id="discord">
-  <a href="https://discord.gg/eCvsrwM84m"><img alt="Discord" src="https://img.shields.io/discord/748951941379522631"></a>
+<p align="left" id="discord">
+  <a href="https://discord.gg/eCvsrwM84m" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/748951941379522631"></a>
 </p>
 <p id="twitter">
-  <a href="https://twitter.com/raito1460"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raito1460?style=social"></a>
+  <a href="https://twitter.com/raito1460" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raito1460?style=social"></a>
 </p>
 
 > ### `ステータス`
