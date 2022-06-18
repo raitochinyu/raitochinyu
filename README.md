@@ -27,5 +27,5 @@
 - #### [Twitter](https://twitter.com)
 
 
-# English　is here（英語版はこっち）
+# English is here（英語版はこっち）
 ### [*Click here for English*](./doc/EN.md)
