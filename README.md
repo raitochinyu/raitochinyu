@@ -1,12 +1,12 @@
 # My profile
 <p align="left" id="github">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/raitochinyu?style=social">
+  <a src="https://github.com/raitochinyu"><img alt="GitHub followers" src="https://img.shields.io/github/followers/raitochinyu?style=social"></a>
 </p>
 <p align="" id="discord">
-  <img alt="Discord" src="https://img.shields.io/discord/748951941379522631">
+  <a src="https://discord.gg/eCvsrwM84m"><img alt="Discord" src="https://img.shields.io/discord/748951941379522631"></a>
 </p>
 <p id="twitter">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raito1460?style=social">
+  <a src="https://twitter.com/raito1460"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raito1460?style=social"></a>
 </p>
 
 > ### `ステータス`
