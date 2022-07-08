@@ -23,8 +23,8 @@
 
 > ### `SNS`
 
-- #### [Instagram](https://instagram.com)
-- #### [Twitter](https://twitter.com)
+- #### [Instagram](https://instagram.com/raito1460)
+- #### [Twitter](https://twitter.com/raito1460)
 
 
 # English is here（英語版はこっち）
